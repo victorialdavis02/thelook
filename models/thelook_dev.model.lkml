@@ -8,6 +8,7 @@ datagroup: thelook_dev_default_datagroup {
   max_cache_age: "1 hour"
 }
 
+## test
 persist_with: thelook_dev_default_datagroup
 
 explore: distribution_centers {}
